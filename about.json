@@ -1,7 +1,7 @@
 {
    "name" : "Roboto theme component",
-   "about_url" : "",
-   "license_url": "",
+   "about_url": "https://github.com/SamSaffron/discourse-roboto-theme",
+   "license_url": "https://github.com/SamSaffron/discourse-roboto-theme/blob/master/LICENSE",
    "assets": {
         "roboto": "assets/roboto.woff2"
    }
